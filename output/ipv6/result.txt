@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 18:57:51,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff$订阅源
+2026-03-09 19:17:41,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff$订阅源
@@ -507,8 +507,8 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV-4$订阅源
 陕西公共,http://ls.qingting.fm/live/1222.m3u8$订阅源
 
 ☘️福建频道,#genre#
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8$订阅源
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8$订阅源
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian$订阅源
@@ -532,10 +532,10 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV-4$订阅源
 衡水公共,http://ls.qingting.fm/live/2810.m3u8$订阅源
 河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=2510710360&k=b43f406360a945d199904faf3b6e2c18$订阅源
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8$订阅源
-河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8$订阅源
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd$订阅源
-河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
+河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8$订阅源
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8$订阅源
+河北农民,http://ls.qingting.fm/live/1650.m3u8$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8$订阅源
 昌黎综合,https://jwcdnqx.hebyun.com.cn/zb/clzhpd/1500k/tzwj_video.m3u8$订阅源
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8$订阅源
@@ -630,10 +630,10 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV-4$订阅源
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8$订阅源
 
 🌊港·澳·台,#genre#
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
@@ -738,5 +738,3 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=405252f2e3e9d074b85
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=d46236e1f679dad891142868b96821ba336ddefe3e4cddd4bd824a7fb0dcbbaba9234379f3c3e8769f05d127936a3a11f0963e0728476ac62f93a56a69dfed36453b0c3516a4ed541829283d46$订阅源
 
 🏛经典剧场,#genre#
-西游记,https://lbds.us.ci/26355861$订阅源
-西游记,https://lbds.us.ci/26355861$订阅源
